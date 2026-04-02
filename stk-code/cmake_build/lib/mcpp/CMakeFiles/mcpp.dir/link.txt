@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmcpp.a CMakeFiles/mcpp.dir/directive.c.o CMakeFiles/mcpp.dir/eval.c.o CMakeFiles/mcpp.dir/expand.c.o CMakeFiles/mcpp.dir/main.c.o CMakeFiles/mcpp.dir/main_libmcpp.c.o CMakeFiles/mcpp.dir/mbchar.c.o CMakeFiles/mcpp.dir/support.c.o CMakeFiles/mcpp.dir/system.c.o
+/usr/bin/ranlib libmcpp.a

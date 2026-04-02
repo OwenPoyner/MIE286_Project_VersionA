@@ -1,0 +1,19 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/Owen/Documents/MIE_Project/versionA/stk-code/cmake_build/cmake_install.cmake",
+		"/home/Owen/Documents/MIE_Project/versionA/stk-code/cmake_build/lib/bullet/cmake_install.cmake",
+		"/home/Owen/Documents/MIE_Project/versionA/stk-code/cmake_build/lib/enet/cmake_install.cmake",
+		"/home/Owen/Documents/MIE_Project/versionA/stk-code/cmake_build/lib/libsquish/cmake_install.cmake",
+		"/home/Owen/Documents/MIE_Project/versionA/stk-code/cmake_build/lib/graphics_engine/cmake_install.cmake",
+		"/home/Owen/Documents/MIE_Project/versionA/stk-code/cmake_build/lib/graphics_utils/cmake_install.cmake",
+		"/home/Owen/Documents/MIE_Project/versionA/stk-code/cmake_build/lib/tinygettext/cmake_install.cmake",
+		"/home/Owen/Documents/MIE_Project/versionA/stk-code/cmake_build/lib/mcpp/cmake_install.cmake",
+		"/home/Owen/Documents/MIE_Project/versionA/stk-code/cmake_build/lib/irrlicht/cmake_install.cmake",
+		"/home/Owen/Documents/MIE_Project/versionA/stk-code/cmake_build/lib/wiiuse/cmake_install.cmake",
+		"/home/Owen/Documents/MIE_Project/versionA/stk-code/cmake_build/lib/wiiuse/src/cmake_install.cmake",
+		"/home/Owen/Documents/MIE_Project/versionA/stk-code/cmake_build/lib/angelscript/projects/cmake/cmake_install.cmake",
+		"/home/Owen/Documents/MIE_Project/versionA/stk-code/cmake_build/lib/sheenbidi/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
